@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HidrasmartCM_APP_2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="marker_close_info_window_on_retap_demo_label">Marker Close Info Window on Retap</string>
+    <string name="marker_close_info_window_on_retap_demo_description">Demonstrates how to close the info window when the currently selected marker is retapped.</string>
+    <string name="marker_demo_description">Demonstrates how to add Markers to a map.</string>
+
+</resources>
